@@ -50,20 +50,7 @@ body {
     line-height: 1.5;
 }
 
-.social-link {
-    width: 100%;
-    color: #ffffff;
-    font-size: 14px;
-    font-weight: 600;
-    justify-content: center;
-    background-color: #333333;
-    border: none;
-    border-radius: 8px;
-    height: 45px;
-    display: flex;
-    flex-direction: column;
-    
-}
+
 .social-link:hover {
     background-color: #C4F82A;
     color: #141414;
@@ -93,7 +80,22 @@ body {
     max-width: 400px;
 }
 
-
+.social-link {
+    width: 100%;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    text-align: center;
+    justify-content: center;
+    background-color: #333333;
+    border: none;
+    border-radius: 8px;
+    height: 45px;
+    display: flex;
+    flex-direction: column;
+    
+}
 
 /*  base styles (these apply to mobile by default) */
 body {
