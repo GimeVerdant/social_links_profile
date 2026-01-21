@@ -24,14 +24,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./links_profile_desktop.jpg)
-![](./links_profile_mobile.jpg)
+![](./links_profile_desktop.png)
+![](./links_profile_mobile.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/GimeVerdant/social_links_profile)
-- Live Site URL: [Add live site URL here](https://gimeverdant.github.io/social_links_profile/)
+- Solution URL: (https://github.com/GimeVerdant/social_links_profile)
+- Live Site URL: (https://gimeverdant.github.io/social_links_profile/)
 
 ## My process
 
